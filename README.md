@@ -1,5 +1,7 @@
 # Deus Vitae - README
 
+**Auteurs** : Ce projet a été fait par 3 programmeurs : Eliot Nerrand, François Lahalle et Christophe Huang, ainsi que 3 artistes : Kenza Druart, Nicolas Roland et Chanelle Mazenq.
+
 **Deus Vitae** est un prototype Unreal Engine 5 qui met en œuvre plusieurs systèmes clés pour animer dynamiquement un environnement désertique :
 
 - **Procédural Content Generation (PCG)** en temps réel
@@ -9,8 +11,6 @@
 - **Post-traitement visuel** (brouillard, halo, FOV dynamique)
 
 ---
-Ce projet a été fait par 3 programmeurs : Eliot Nerrand, François Lahalle et Christophe Huang ainsi que 3 artistes : Kenza Druart, Nicolas Roland et Chanelle Mazenq.
-
 
 ## Table des matières
 1. [Utilisation](#utilisation)
@@ -65,6 +65,16 @@ Ce projet a été fait par 3 programmeurs : Eliot Nerrand, François Lahalle et 
 - **Halo lumineux** sur le personnage via UV animées.
 
 ---
+
+## Captures d’écran
+Voici quelques captures du prototype en action :
+
+- [Screenshot 1 – Léopard et zèbres](Screenshots/Arcturus%20-%20Unreal%20Editor%2015_07_2025%2017_44_27.png)
+- [Screenshot 2 – Vue d’ensemble](Screenshots/Arcturus%20-%20Unreal%20Editor%2015_07_2025%2017_44_52.png)
+- [Screenshot 3 – Troupeau au loin](Screenshots/Arcturus%20-%20Unreal%20Editor%2015_07_2025%2017_47_04.png)
+
+---
+
 
 ## Améliorations possibles
 - Partitionnement du landscape pour de meilleures performances.
